@@ -1,6 +1,6 @@
-# I am GPeaky
+## About me
 
-## :zap: Languajes
+## Languajes
 
 ![LUA](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
