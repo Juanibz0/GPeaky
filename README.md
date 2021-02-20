@@ -1,4 +1,7 @@
 ## About me
+
+CEO de Safety Scripting Guard
+
 Hi I'm Peaky, I'm a programmer who knows the following languages: JavaScript, Node.js, Python, Lua, HTML5, CSS3, Mysql and Bootstrap.
 I plan to learn PHP, Java, C+ and C# in the future.
 
