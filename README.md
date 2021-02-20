@@ -39,5 +39,5 @@ Os dejo el discord por aquí ☺
   <img align="center" alt="GitHub Stats GPeaky" src="https://github-readme-stats.vercel.app/api?username=GPeaky&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
 </a>
 <a href="https://github.com/Apolo-sys">
-  <img align="center" alt="GitHub Stats GPeaky" src="https://github-readme-stats.vercel.app/api/wakatime?username=GPeaky&custom_title=Actividad%20de%20Apolo%20 (7 dias)"/>
+  <img align="center" alt="GitHub Stats GPeaky" src="https://github-readme-stats.vercel.app/api/wakatime?username=GPeaky&custom_title=Actividad%20de%20GPeaky%20 (7 dias)"/>
 </a>
