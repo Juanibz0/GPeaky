@@ -1,5 +1,9 @@
 ## About me
-Hi I'm Peaky, I'm a programmer who knows the following languages: JavaScript, Node.js, Python, Lua, HTML5, CSS3, Mysql, Bootstrap.
+Hi I'm Peaky, I'm a programmer who knows the following languages: JavaScript, Node.js, Python, Lua, HTML5, CSS3, Mysql and Bootstrap.
+I plan to learn PHP, Java, C+ and C# in the future.
+
+Currently I program in Fivem, with the language lua
+
 
 ## Languajes
 
