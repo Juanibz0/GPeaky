@@ -18,6 +18,7 @@ Currently I program in Fivem, with the language lua
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+[![Discord](https://i.imgur.com/UZTVSo6.png)](https://discordapp.com/users/699667366862389259)
 
 ## Statistics
 
