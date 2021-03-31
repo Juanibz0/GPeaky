@@ -1,7 +1,5 @@
 ## About me
 
-CEO de Safety Scripting Guard
-
 Hi I'm Peaky, I'm a programmer who knows the following languages: JavaScript, Node.js, Python, Lua, HTML5, CSS3, Mysql and Bootstrap.
 I plan to learn PHP, Java, C+ and C# in the future.
 
@@ -17,7 +15,6 @@ Currently I program in Fivem, with the language lua
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Discord](https://img.shields.io/badge/-GPeaky-black?style=flat-square&logo=discord)
 
 ## Statistics
