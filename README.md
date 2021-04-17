@@ -21,10 +21,7 @@ Currently I program in Fivem, with the language lua
 
 ## Statistics
 
-<a href="https://github.com/GPeaky">
-  <img align="center" alt="GitHub Stats GPeaky" src="https://github-readme-stats.vercel.app/api?username=GPeaky&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
-</a>
+## My Github Status 🦸
+![](https://github-readme-stats.vercel.app/api?username=GPeaky&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
-<a href="https://github.com/GPeaky">
-  <img align="center" alt="GitHub Stats GPeaky" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPeaky&locale=es&count_private=true&theme=dark&layout=compact&hide_title=trueinclude_all_commits=true&langs_count=10"/>
-</a>
+![](https://activity-graph.herokuapp.com/graph?username=GPeaky&theme=github)
