@@ -21,7 +21,14 @@ Currently I program in Fivem, with the language lua
 
 ## Statistics
 
-## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=GPeaky&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 ![](https://activity-graph.herokuapp.com/graph?username=GPeaky&theme=github)
+
+
+## My Trending Repos 💻
+![](https://github-readme-stats.vercel.app/api/pin/?username=GPeaky&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=GPeaky&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=GPeaky'></p>
