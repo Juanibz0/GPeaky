@@ -27,7 +27,7 @@ Currently I program in Fivem, with the language lua
 
 
 ## My Trending Repos 💻
-![](https://github-readme-stats.vercel.app/api/pin/?username=GPeaky&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=GPeaky&repo=trew_hud_ui&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=GPeaky&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
